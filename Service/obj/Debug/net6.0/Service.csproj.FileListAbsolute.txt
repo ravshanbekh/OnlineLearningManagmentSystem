@@ -1,0 +1,17 @@
+D:\C#\OnlineLearningManagmentSystem\Service\bin\Debug\net6.0\Service.deps.json
+D:\C#\OnlineLearningManagmentSystem\Service\bin\Debug\net6.0\Service.dll
+D:\C#\OnlineLearningManagmentSystem\Service\bin\Debug\net6.0\Service.pdb
+D:\C#\OnlineLearningManagmentSystem\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\C#\OnlineLearningManagmentSystem\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OnlineLearningManagmentSystem\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\C#\OnlineLearningManagmentSystem\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\C#\OnlineLearningManagmentSystem\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\C#\OnlineLearningManagmentSystem\Service\obj\Debug\net6.0\Service.dll
+D:\C#\OnlineLearningManagmentSystem\Service\obj\Debug\net6.0\refint\Service.dll
+D:\C#\OnlineLearningManagmentSystem\Service\obj\Debug\net6.0\Service.pdb
+D:\C#\OnlineLearningManagmentSystem\Service\obj\Debug\net6.0\ref\Service.dll
+D:\C#\OnlineLearningManagmentSystem\Service\bin\Debug\net6.0\Data.dll
+D:\C#\OnlineLearningManagmentSystem\Service\bin\Debug\net6.0\Domain.dll
+D:\C#\OnlineLearningManagmentSystem\Service\bin\Debug\net6.0\Data.pdb
+D:\C#\OnlineLearningManagmentSystem\Service\bin\Debug\net6.0\Domain.pdb
+D:\C#\OnlineLearningManagmentSystem\Service\obj\Debug\net6.0\Service.csproj.CopyComplete

@@ -1,0 +1,17 @@
+D:\C#\OnlineLearningManagmentSystem\Data\bin\Debug\net6.0\Data.deps.json
+D:\C#\OnlineLearningManagmentSystem\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\C#\OnlineLearningManagmentSystem\Data\bin\Debug\net6.0\Data.dll
+D:\C#\OnlineLearningManagmentSystem\Data\bin\Debug\net6.0\Data.pdb
+D:\C#\OnlineLearningManagmentSystem\Data\bin\Debug\net6.0\Domain.dll
+D:\C#\OnlineLearningManagmentSystem\Data\bin\Debug\net6.0\Domain.pdb
+D:\C#\OnlineLearningManagmentSystem\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\C#\OnlineLearningManagmentSystem\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OnlineLearningManagmentSystem\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\C#\OnlineLearningManagmentSystem\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\C#\OnlineLearningManagmentSystem\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\C#\OnlineLearningManagmentSystem\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+D:\C#\OnlineLearningManagmentSystem\Data\obj\Debug\net6.0\Data.dll
+D:\C#\OnlineLearningManagmentSystem\Data\obj\Debug\net6.0\refint\Data.dll
+D:\C#\OnlineLearningManagmentSystem\Data\obj\Debug\net6.0\Data.pdb
+D:\C#\OnlineLearningManagmentSystem\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\C#\OnlineLearningManagmentSystem\Data\obj\Debug\net6.0\ref\Data.dll
